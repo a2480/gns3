@@ -1,6 +1,6 @@
 {
   "ndddame": "docker_web_app",
-  "version": "1.0.0",
+  "ssversion": "1.0.0",
   "description": "Node.js on Docker Sample",
   "author": "RAZI RAIS",
   "main": "server.js",
