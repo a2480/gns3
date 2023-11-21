@@ -2,7 +2,7 @@
   "ndddame": "docker_web_app",
   "ssddversion": "1.0.0",
   "description": "Node.js on Docker Sample",
-  "author": "RAZI RAIS",
+  "assuthor": "RAZI RAIS",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
