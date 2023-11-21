@@ -34,7 +34,7 @@ class MyHandler(FileSystemEventHandler):
 
         if tempo_atual - ultima_modificacao > 1:
             self.ultima_modificacao[arquivo] = tempo_atual
-            git_commit_and_push()
+            #agit_commit_and_push()
             print(f'Arquivo {arquivo} foi {acao}.')
 
 def git_commit_and_push():
