@@ -23,7 +23,7 @@
 	<li>deploy - full deployment of detection rules.</li>
 <ul><li>	-c: specify the client</li></ul>
 	<li>forcedelete - remove all Detection rules existing in Kibana but not in...</li>
-	<li>report - specifies the deadline for inclusion of temporary exceptions.</li>
+	<li>report - specifies the teste  deadline for inclusion of temporary exceptions.</li>
 <ul><li>	-c: specify the client</li></ul>
 <ul><li>	-t: specify the limit of time to include deleted exceptions</li></ul>
 	<li>tdelete - Temporary exceptions delete of clients</li>
