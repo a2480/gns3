@@ -3,7 +3,7 @@ import openpyxl
 
 def git_log_to_excel(output_file):
     # Run git log -p command and capture the output
-    git_log_output = subprocess.check_output(['git', 'log', '-p'], text=True)
+    git_log_output = subprocess.check_output(['','git', 'log', '-p'], text=True)
 
     # Split the log into individual commits
     commits = git_log_output.split('\ncommit ')
