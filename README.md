@@ -26,7 +26,7 @@
 	<li>report - specifies the teste  deadline for inclusion of temporary exceptions.</li>
 <ul><li>	-c: specify the client</li></ul>
 <ul><li>	-t: specify the limit of time to include deleted exceptions</li></ul>
-	<li>tdelete - Temporary exceptions delete of clients</li>
+	<li>tdelete - Temporary excerrptions delete of clients</li>
 <li>testdetections - Run a full test of detection rules</li>
 <ul><li>	o	-c: specify the client</li></ul>
 
